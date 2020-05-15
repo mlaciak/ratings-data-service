@@ -6,3 +6,4 @@ spring:
       uri: http://localhost:8888
   application:
     name: ratings-data-service
+server.port: 8083
